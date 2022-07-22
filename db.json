@@ -8,11 +8,62 @@
         "git":"https://github.com/Superatons23/Base-Apparel-coming-soon-page"
     },
     {
-        "title":"Base Apparel coming soon page",
-        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/tjmihf4uv326gkkz7mbk.jpg",
-        "site":"https://superatons23.github.io/Base-Apparel-coming-soon-page/",
-        "git":"https://github.com/Superatons23/Base-Apparel-coming-soon-page"
+        "title":"Four card feature section",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/a3b5gbgtfbtiqrdawpwp.jpg",
+        "site":"https://superatons23.github.io/Four-card-feature-section/",
+        "git":"https://github.com/Superatons23/Four-card-feature-section"
+    }, {
+        "title":"Article preview component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/tm7zwaa7fprabjbwbemt.jpg",
+        "site":"https://superatons23.github.io/Article-preview-component/",
+        "git":"https://github.com/Superatons23/Article-preview-component"
+    },{
+        "title":"Social proof section",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/bnjpxmx9fudsmerfj6eo.jpg",
+        "site":"https://github.com/Superatons23/Social-proof-section",
+        "git":"https://superatons23.github.io/Social-proof-section/"
+    },
+    {
+        "title":"Product preview card component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/lftjtn81b7brs2icc898.jpg",
+        "site":"https://superatons23.github.io/Product-preview-card-component/",
+        "git":"https://github.com/Superatons23/Product-preview-card-component"
+    },  {
+        "title":"FAQ accordion card",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ua4zwoxu3i9avrzrusre.jpg",
+        "site":"https://superatons23.github.io/FAQ-accordion-card/",
+        "git":"https://github.com/Superatons23/FAQ-accordion-card"
+    },  {
+        "title":"Profile card component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/dia0o9uigiiz4gebiqps.jpg",
+        "site":"https://superatons23.github.io/Profile-card-component/",
+        "git":"https://github.com/Superatons23/Profile-card-component"
+    }, {
+        "title":"3-column preview card component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/juir90bwmmvlo86g9paz.jpg",
+        "site":"https://superatons23.github.io/3-column-preview-card-component/",
+        "git":"https://github.com/Superatons23/3-column-preview-card-component"
+    }, {
+        "title":"Stats preview card component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/sucvvhutd4codsxpzvw7.jpg",
+        "site":"https://superatons23.github.io/Stats-preview-card-component/",
+        "git":"https://github.com/Superatons23/Stats-preview-card-component"
+    }, {
+        "title":"Interactive rating component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/hxx2bhmtmeelt0a98zos.jpg",
+        "site":"https://superatons23.github.io/Interactive-rating-component/",
+        "git":"https://github.com/Superatons23/Interactive-rating-component"
     }
-
+    , {
+        "title":"Order summary card",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ouobx6tvyduidzio7wr7.jpg",
+        "site":"https://superatons23.github.io/order-summary-component-main/",
+        "git":"https://github.com/Superatons23/order-summary-component-main"
+    }, {
+        "title":"NFT preview card component",
+        "img":"https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/rinokvkluq95madbvtmk.jpg",
+        "site":"https://superatons23.github.io/nft-preview-component-main/",
+        "git":"https://github.com/Superatons23/nft-preview-component-main"
+    }
     ]
 }
